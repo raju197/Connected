@@ -1,0 +1,5 @@
+E:\C#code\AddressBookConnectedPractical\AddressBookConnectedPractical\bin\Debug\AddressBookConnectedPractical.dll
+E:\C#code\AddressBookConnectedPractical\AddressBookConnectedPractical\bin\Debug\AddressBookConnectedPractical.pdb
+E:\C#code\AddressBookConnectedPractical\AddressBookConnectedPractical\obj\Debug\BELLayer.csproj.CoreCompileInputs.cache
+E:\C#code\AddressBookConnectedPractical\AddressBookConnectedPractical\obj\Debug\AddressBookConnectedPractical.dll
+E:\C#code\AddressBookConnectedPractical\AddressBookConnectedPractical\obj\Debug\AddressBookConnectedPractical.pdb
